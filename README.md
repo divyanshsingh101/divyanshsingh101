@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Divyansh Singh, and I'm currently a second-year undergraduate student at Motilal Nehru National Institute of Technology (MNNIT), pursuing my Bachelor's degree in [Your Branch, e.g., Computer Science and Engineering.</h3>
+<h3 align="left">Hi 👋! My name is Divyansh Singh, and I'm currently a second-year undergraduate student at Motilal Nehru National Institute of Technology (MNNIT), pursuing my Bachelor's degree in Computer Science and Engineering.</h3>
 
 ###
 
